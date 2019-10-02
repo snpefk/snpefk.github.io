@@ -3,7 +3,7 @@
 
 Дома использую линукс (I use arch, btw). Железками, которыми могу похвастаться:  Thinkpad t470 и Vortex RGB CORE.
 
-Умею писать на: Kotlin, (небольшое отставание), python, (пропасать), rust, java, c++, js, etc. You name it — I can't use it (но быстро учусь).
+Умею писать на: Kotlin, (небольшое отставание), python, (пропасть), rust, java, c++, js, etc. You name it — I can't use it (но быстро учусь).
 
 ## Проявляю интерес в CS
 CPU, operating systems, emulation, system programming, rust, concurrency

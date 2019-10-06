@@ -6,6 +6,8 @@
 Умею писать на: Kotlin, (небольшое отставание), python, (пропасть), rust, java, c++, js, etc. You name it — I can't use it (но быстро учусь).
 
 ## Проявляю интерес в CS
+![alt](/assets/img/love_computers.gif)
+
 CPU, operating systems, emulation, system programming, rust, concurrency
 
 ## Проявляю интерес не в CS 

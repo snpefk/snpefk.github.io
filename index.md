@@ -8,7 +8,8 @@
 ## Проявляю интерес в CS
 ![alt](/assets/img/love_computers.gif)
 
-CPU, operating systems, emulation, system programming, rust, concurrency
+CPU, operating systems, emulation, system programming, rust, concurrency, compilers
 
 ## Проявляю интерес не в CS 
-К [аниме](https://myanimelist.net/profile/Snpefk) и emo music. Не люблю третью волну пост рока, уважаю вторую.
+- нравится смотреть [мультики](https://myanimelist.net/profile/Snpefk) про роботов, превозмогающих детей и скудно одетых школьниц
+- слушать песни меланхоличных неудачников a.k.a midwest emo; не люблю третью волну пост рока, предпочитаю вторую 

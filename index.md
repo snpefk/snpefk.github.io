@@ -16,7 +16,4 @@ cpu, operating systems, emulation, system programming, rust, concurrency, compil
 - подтюнивать как попало работющий десктоп (unix ricing), приматывать свистелки и перделки
 
 ## Статистика сожранного медиаконтент
-- [anime](https://myanimelist.net/profile/Snpefk)
-- [books](https://www.goodreads.com/snpefk)
-- [music](https://www.last.fm/user/Sk8tter)
-- [movie](https://letterboxd.com/snpefk)
+[anime & manga](https://myanimelist.net/profile/Snpefk), [books](https://www.goodreads.com/snpefk), [music](https://www.last.fm/user/Sk8tter), [movie](https://letterboxd.com/snpefk)

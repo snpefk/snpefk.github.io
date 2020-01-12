@@ -17,3 +17,6 @@ cpu, operating systems, emulation, system programming, rust, concurrency, compil
 
 ## Поглощенный медиаконтент
 [🔰 anime & manga](https://myanimelist.net/profile/Snpefk), [📚 books](https://www.goodreads.com/snpefk), [🎧 music](https://www.last.fm/user/Sk8tter), [🎥 movie](https://letterboxd.com/snpefk), [🎮 videogames](https://howlongtobeat.com/user?n=snpefk)
+
+## DO NOT PASS BY! SHITPOST KINGDOM OPEN ALL NIGHT!
+↪️ [CLICK HERE! WOW!](https://mastodon.social/@snpefk) ↩️

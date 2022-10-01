@@ -3,7 +3,8 @@ My name is **snpefk**, but IRL u can call me ~~Saul~~ Fedya Tolstonozhenko.
 I'm software engineer, mostly interested in writing tooling, CLI & optimizing system performance.  
 
 ## serious stuff
-[📌 linkedin](https://www.linkedin.com/in/snpefk/)📌 [snpefk@gmail.com](mailto:snpefk@gmail.com)
+[📌 linkedin](https://www.linkedin.com/in/snpefk/)
+📌 [snpefk@gmail.com](mailto:snpefk@gmail.com)
 
 ## social
 I'm control freak, so I log mostly everything I consume and occasionally write reviews (mostly in russian). Check my stuff (& send friend request):  

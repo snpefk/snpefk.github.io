@@ -3,7 +3,8 @@
  
 
 ## serious stuff (CV)
-[📌 linkedin](https://www.linkedin.com/in/snpefk/) 
+[📌 linkedin](https://www.linkedin.com/in/snpefk/)
+📌 mail: snpefk@gmail.com
 
 ## social
 I'm control freak, so I log mostly everything I consume and occasionally write reviews (mostly in russian). Check my stuff (& send friend request):  

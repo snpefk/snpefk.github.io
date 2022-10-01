@@ -1,8 +1,8 @@
 # about
-*Sample text*
- 
+My name is **snpefk**, but IRL u can call me ~~Saul~~ Fedya Tolstonozhenko. 
+I'm software engineer, mostly interested in writing tooling, CLI & optimizing system performance.  
 
-## serious stuff (CV)
+## serious stuff
 [📌 linkedin](https://www.linkedin.com/in/snpefk/)
 📌 mail: snpefk@gmail.com
 

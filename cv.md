@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "cv"
-permalink: /cv
+permalink: /cv/
 theme: minima
 ---
 
@@ -10,7 +10,7 @@ I'm software engineer currently working as **Mobile DevOps** in [Koshelek App](h
 I used to be **Android Developer** (more than 3 years) and **Fullstack Python Developer** (for roughly a year).
 
 [📌 linkedin](https://www.linkedin.com/in/snpefk/)
-📌 [snpefk@gmail.com](mailto:snpefk@gmail.com)
+[📌 snpefk@gmail.com](mailto:snpefk@gmail.com)
 
 ## Skills 
 - **Programming Languages**: Kotlin, Python, sometime Rust

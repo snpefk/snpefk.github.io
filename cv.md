@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "cv"
-permalink: /cv/
+permalink: /cv
+theme: minima
 ---
 
 # Fedor Tolstonozhenko 

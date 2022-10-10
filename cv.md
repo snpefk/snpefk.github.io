@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "cv"
 permalink: /cv/
-
 ---
 
 # Fedor Tolstonozhenko 

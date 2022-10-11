@@ -5,6 +5,7 @@ I'm software engineer, mostly interested in writing tooling, CLI & optimizing sy
 ## serious stuff
 [📌 linkedin](https://www.linkedin.com/in/snpefk/)
 [📌 snpefk@gmail.com](mailto:snpefk@gmail.com)
+[📌 cv](/cv)
 
 ## social
 I'm control freak, so I log mostly everything I consume and occasionally write reviews (mostly in russian). Check my stuff (& send friend request):  

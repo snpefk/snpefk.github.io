@@ -1,12 +1,9 @@
 ---
 layout: post
 title: "Dealing with bureaucracy through terminal"
-date: 2022-10-01 10:00:00 +0400
+date: 2022-10-20 10:00:00 +0400
 categories: cli
 ---
-
-# Dealing with bureaucracy through terminal
-
 ## Motivation
 
 I was an opponent of such posts due to their seeming obviousness. Everyone already knows that, right? Why should I write another compilation of README's that offers basically nothing new? 
@@ -32,17 +29,23 @@ alias jil="jira issue list -a$(jira me) --order-by status --reverse -s~Closed --
 alias jic="jira issue create"
 alias jicb="jira issue create -tBug"
 alias jsw="jira_start_work"
+alias jivc="jira_issue_view_current"
 
 jira_start_work () {
     jira issue assign $1 $(jira me)
     jira issue move $1 "In Progress"
 }
+
+jira_issue_view_current() { 
+	jira issue view $(git branch --show-current) --plain
+}
 ```
 
 Here's what they do: 
 - `jil` — browse current issues ("Open", "In Progress" and "In Review"). Default pagination setting is 50 items and network request takes too much time to finish, so, I decreased the value to 10. I also added a filter for closed tasks (you probably have your own type of Jira Issues) and sorting by status.
-- `jic` & `jicb`— create issue and bug ticket.   
-- `jsw` — shortcut for calling `jira_start_work()` function that assigns the task to my profile and moves it to "In progress" state. The function takes Jira Issue Key as an argument. Used this on newly created issues.  
+- `jic` & `jicb` — create issue and bug ticket.   
+- `jsw` — shortcut for calling `jira_start_work()` function that assigns the task to my profile and moves it to "In progress" state. The function takes Jira Issue Key as an argument. Used this on newly created issues.
+- `jivs` — show description about associated with current git branch issue (works if you name branches by the Jira Issue keys).
 
 So, typical workflow for me looks like this: 
 

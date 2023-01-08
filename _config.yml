@@ -22,7 +22,7 @@ title: snpefk@thinkpad:~$
 email: snpefk@gmail.com
 logo: assets/img/logo_01-10-22.jpg
 description: >- # this means to ignore newlines until "baseurl:"
-  cause everybody need a blog, right?
+  cause everybody needs a blog, right?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snpefk

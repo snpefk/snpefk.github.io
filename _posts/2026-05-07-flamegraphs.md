@@ -11,7 +11,7 @@ categories: performance
 
 A week ago I "wrote" a Flamegraph renderer for GitHub Actions tailored to my needs, because my job involves doing optimization work.
 
-I vibe-coded the PoC with clanker, then rewrote it into a blazingly fast version in Rust. What do you do with all the free time you've saved, besides coming up with clickbait titles? Obviously, you dive deeper into the topic.
+Before you grab yout pitchforks, I vibe-coded the PoC with clanker, but then rewrote it into a _blazingly fast_ version in Rust. What do you do with all the free time you've saved, besides coming up with clickbait titles? Obviously, you dive deeper into the topic.
 
 Let's start with what a Flamegraph is. It's a visualization of **Stack Traces**. What are **Stack Traces**? They're a sequence of **Stack Frames** representing the current (Call) Stack (I won't explain what a stack is).
 

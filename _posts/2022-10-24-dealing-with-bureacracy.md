@@ -2,6 +2,7 @@
 layout: post
 title: "Dealing with bureaucracy through terminal"
 date: 2022-10-20 10:00:00 +0400
+published: false
 categories: cli
 ---
 ## Motivation

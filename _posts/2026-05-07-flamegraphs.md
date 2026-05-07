@@ -9,7 +9,7 @@ categories: performance
 
 [snpefk/gha-flamegraph: Flamegraphs for GitHub Actions](https://github.com/snpefk/gha-flamegraph)
 
-A week ago I "wrote" a Flamegraph renderer for GitHub Actions tailored to my needs, because my job involves doing optimization work.
+A week ago I "wrote" a Flamegraph renderer for GitHub Actions tailored to my needs, because my job involves doing optimization work for afromentioned GitHub Actions.
 
 Before you grab yout pitchforks, I vibe-coded the PoC with clanker, but then rewrote it into a _blazingly fast_ version in Rust. What do you do with all the free time you've saved, besides coming up with clickbait titles? Obviously, you dive deeper into the topic.
 

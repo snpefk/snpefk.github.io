@@ -1,6 +1,7 @@
 ---
 title: "cv"
 permalink: /cv/
+published: false
 ---
 
 # Fyodor Tolstonozhenko 

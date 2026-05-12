@@ -5,7 +5,7 @@ date: 2026-05-07 10:00:00 +0400
 categories: performance
 ---
 
-![star of the show](../assets/img/2026-05-07-flamegraphs/flamegraph.svg)
+![star of the show](/assets/img/2026-05-07-flamegraphs/flamegraph.svg)
 
 ## You didn't get Flamegraphs
 

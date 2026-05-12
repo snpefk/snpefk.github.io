@@ -5,6 +5,8 @@ date: 2026-05-07 10:00:00 +0400
 categories: performance
 ---
 
+![star of the show](../assets/img/2026-05-07-flamegraphs/flamegraph.svg)
+
 ## You didn't get Flamegraphs
 
 [snpefk/gha-flamegraph: Flamegraphs for GitHub Actions](https://github.com/snpefk/gha-flamegraph)
@@ -51,6 +53,9 @@ With enough imagination, you can represent pretty much anything as stack traces.
 It seems like they've been around forever. In reality, it's a relatively recent thing: Brendan Gregg introduced Flame Graphs around 2011–2012, and the first implementation was in Perl.
 
 Personally, I had been misunderstanding how to read Flamegraphs this whole time. The X-axis is not time. It's aggregated and sorted stack traces (identical stacks collapsed together). If you try to plot the graph over time, you get a **hair graph** – a noisy visualization where it's nearly impossible to see patterns. The whole idea behind Flamegraphs is the opposite: identical stack traces are merged, the X-axis order is chosen so that neighboring stacks are similar (usually lexicographic sorting), and thanks to this, "wide" hot spots are clearly visible.
+
+![Here is how "Hair Graph" looks. It's not a staged corner case, this is him in his natural habitat](../assets/img/2026-05-07-flamegraphs/hair-graph.jpg)
+
 
 A graph where the X-axis represents time is a **Flame Chart**. If you're like me, it might comfort you to know that early profilers in Google Chrome also initially produced exactly that kind of graph.
 
